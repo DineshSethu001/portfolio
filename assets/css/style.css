@@ -9,8 +9,8 @@
 }
                                         /* colors */
 :root{
-    --first-color:#4070f4;
-    --second-color:#0e2431;
+    --first-color:#f440f1;
+    --second-color:#b60dee;
     --gardient-color:linear-gradient(to right,#5001fb,#8e0af3);
 }
                                         /* font style */
